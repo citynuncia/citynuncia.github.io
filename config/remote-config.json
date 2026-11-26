@@ -1,0 +1,5 @@
+{
+  "nominatimEnabled": true,
+  "tileUrlTemplate": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "tileAttribution": "© OpenStreetMap contributors"
+}
